@@ -1,0 +1,60 @@
+.container-lg {
+  background: #f6b9be;
+  border-radius: 15px;
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+h2 {
+  padding-top: 20px;
+}
+
+.big_weather_icon {
+  width: 150px;
+  position: relative;
+  bottom: 90px;
+}
+
+.temperature_number {
+  font-size: 70px;
+  position: relative;
+  left: 130px;
+}
+
+.units {
+  font-size: 20px;
+  position: relative;
+  left: 125px;
+}
+
+ul {
+  list-style: none;
+  position: relative;
+  top: 20px;
+}
+
+.form-control.btn.btn-primary.shadow-sm {
+  color: white;
+  background-color: #9f3048;
+}
+.btn.btn-secondary.shadow-sm {
+  color: white;
+  background-color: #afbd7e;
+}
+
+.img-fluid.nezuko {
+  float: right;
+  width: 200px;
+}
+
+.col-4.img {
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+.btn.btn-secondary.shadow-sm.hover {
+  color: white;
+}
